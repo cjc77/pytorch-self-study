@@ -1,3 +1,10 @@
 .ipynb_checkpoints
 
+# Pycache files
+*.pyc
+*.egg-info
+
 data
+
+# Pytorch checkpoints
+*.pth
